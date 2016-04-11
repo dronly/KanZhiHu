@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="prism-1.0.1">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.stylingandroid.prism/prism/1.0.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.stylingandroid.prism/prism/1.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.stylingandroid.prism/prism/1.0.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.stylingandroid.prism/prism/1.0.1/bdf94e3b1030a61fb36ddb688f142cac61519cc6/prism-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
